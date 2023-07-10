@@ -1,0 +1,17 @@
+C:\Users\jcrooks\source\repos\LogNew\LogNew\bin\Debug\net6.0\LogNew.exe
+C:\Users\jcrooks\source\repos\LogNew\LogNew\bin\Debug\net6.0\LogNew.deps.json
+C:\Users\jcrooks\source\repos\LogNew\LogNew\bin\Debug\net6.0\LogNew.runtimeconfig.json
+C:\Users\jcrooks\source\repos\LogNew\LogNew\bin\Debug\net6.0\LogNew.dll
+C:\Users\jcrooks\source\repos\LogNew\LogNew\bin\Debug\net6.0\LogNew.pdb
+C:\Users\jcrooks\source\repos\LogNew\LogNew\obj\Debug\net6.0\LogNew.csproj.AssemblyReference.cache
+C:\Users\jcrooks\source\repos\LogNew\LogNew\obj\Debug\net6.0\LogNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcrooks\source\repos\LogNew\LogNew\obj\Debug\net6.0\LogNew.AssemblyInfoInputs.cache
+C:\Users\jcrooks\source\repos\LogNew\LogNew\obj\Debug\net6.0\LogNew.AssemblyInfo.cs
+C:\Users\jcrooks\source\repos\LogNew\LogNew\obj\Debug\net6.0\LogNew.csproj.CoreCompileInputs.cache
+C:\Users\jcrooks\source\repos\LogNew\LogNew\obj\Debug\net6.0\LogNew.dll
+C:\Users\jcrooks\source\repos\LogNew\LogNew\obj\Debug\net6.0\refint\LogNew.dll
+C:\Users\jcrooks\source\repos\LogNew\LogNew\obj\Debug\net6.0\LogNew.pdb
+C:\Users\jcrooks\source\repos\LogNew\LogNew\obj\Debug\net6.0\LogNew.genruntimeconfig.cache
+C:\Users\jcrooks\source\repos\LogNew\LogNew\obj\Debug\net6.0\ref\LogNew.dll
+C:\Users\jcrooks\source\repos\LogNew\LogNew\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jcrooks\source\repos\LogNew\LogNew\obj\Debug\net6.0\LogNew.csproj.CopyComplete

@@ -1,0 +1,115 @@
+[
+    {
+        "component": "default",
+        "config": {
+                "console": {
+                "level": "error",
+                "publish": true
+            },
+            "file": {
+                "level": "error",
+                "publish": false,
+                "name": "default.log"
+            },
+            "api": {
+                "level": "error",
+                "publish": true
+            },
+            "db": {
+                "level": "error",
+                "publish": false
+            }
+        }
+    },
+    {
+        "component": "TEST_V1",
+        "config": {
+                "console": {
+                "level": "error",
+                "publish": true
+            },
+            "file": {
+                "level": "error",
+                "publish": false,
+                "name": "test_v1.log"
+            },
+            "api": {
+                "level": "error",
+                "publish": true
+            },
+            "db": {
+                "level": "error",
+                "publish": false
+            }
+        }
+    },
+    {
+        "component": "TEST_V2",
+        "config": {
+                "console": {
+                "level": "error",
+                "publish": false
+            },
+            "file": {
+                "level": "debug",
+                "publish": false,
+                "location":".logs",
+                "name": "test_v2.log"
+            },
+            "api": {
+                "level": "debug",
+                "publish": true
+            },
+            "db": {
+                "level": "error",
+                "publish": false
+            }
+        }
+    },
+    {
+        "component": "tthis",
+        "config": {
+            "console": {
+                "level": "debug",
+                "publish": true
+            },
+            "file": {
+                "level": "error",
+                "publish": false,
+                "location": ".logs",
+                "name": "this.log"
+            },
+            "api": {
+                "level": "error",
+                "publish": true
+            },
+            "db": {
+                "level": "error",
+                "publish": false
+            }
+        }
+    },
+    {
+        "component": "that",
+        "config": {
+            "console": {
+                "level": "error",
+                "publish": false
+            },
+            "file": {
+                "level": "debug",
+                "publish": false,
+                "location": ".logs.that",
+                "name": "that.log"
+            },
+            "api": {
+                "level": "debug",
+                "publish": true
+            },
+            "db": {
+                "level": "error",
+                "publish": false
+            }
+        }
+    }
+]
